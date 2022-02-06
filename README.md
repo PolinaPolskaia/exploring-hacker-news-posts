@@ -1,7 +1,7 @@
 # Exploring Hacker News Posts
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PolinaPolskaia/exploring-hacker-news-posts/blob/main/exploring_hacker_news_posts.ipynb)    [![nbviewer](https://img.shields.io/badge/-nbviewer-orange)](https://nbviewer.org/github/PolinaPolskaia/exploring-hacker-news-posts/blob/main/exploring_hacker_news_posts.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PolinaPolskaia/exploring-hacker-news-posts/blob/main/hacker_news.ipynb)    [![nbviewer](https://img.shields.io/badge/-nbviewer-orange)](https://nbviewer.org/github/PolinaPolskaia/exploring-hacker-news-posts/blob/main/hacker_news.ipynb)
    
 Requirements:
 
